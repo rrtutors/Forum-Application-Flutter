@@ -1,0 +1,43 @@
+[
+  {
+    "name":"Nature",
+    "icon":"landscape",
+    "id":1
+  },
+  {
+  "name":"Music",
+  "icon":"headset",
+  "id":2
+  },
+  {
+  "name":"Movies",
+  "icon":"movie",
+  "id":3
+  },
+  {
+  "name":"Places",
+  "icon":"place",
+  "id":4
+  },
+  {
+  "name":"Food",
+  "icon":"cake",
+  "id":5
+  },
+  {
+  "name":"Books",
+  "icon":"book",
+  "id":6
+  },
+  {
+  "name":"Games",
+  "icon":"games",
+  "id":7
+  },
+  {
+  "name":"Technology",
+  "icon":"mobile_screen_share",
+  "id":8
+  }
+]
+
